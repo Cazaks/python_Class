@@ -5,4 +5,11 @@ for star in range(printing):
 
 	print()
 
+print()
+printing = 10
+for star in range(printing): 
+	for asteric in range(star, printing):
+		print("*", end="")
+
+	print()
 
