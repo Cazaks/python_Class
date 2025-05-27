@@ -1,7 +1,7 @@
 currentpopulation = 8000500000
 growthrate = 0.0085
 
-print(f"{'YEAR':<5}{'POPULATION':<20}{'ANNUAL INCREASE':<20}")
+#print(f"{Yealy:<5}{Population:<25}{Annual increase:<25}")
 
 population = currentpopulation
 for year in range(1, 101):

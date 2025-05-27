@@ -16,8 +16,6 @@ for number in range(4):
 
 average = sum / 4
 
-
-
 print(f"The sum of the numbers is: {sum}")
 print(f"The average of the numbers is: {average}")
 print(f"The product of the numbers is: {product}")
