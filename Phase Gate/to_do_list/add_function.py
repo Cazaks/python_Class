@@ -10,7 +10,7 @@ def add_task(task):
 	"""
 	choice = int(input("Enter your Choice"))
 
-def view_task_function
+def view_task_function(view)
 	
 	
 	 
