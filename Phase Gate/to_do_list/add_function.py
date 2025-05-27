@@ -1,4 +1,5 @@
-def add_task(choice, working_on_task, finishe):
+def add_task(task):
+	task = []
 	working_on_task"""
 	To-Do List Manager;
 	1. Add task
@@ -8,6 +9,8 @@ def add_task(choice, working_on_task, finishe):
 	5. Exist
 	"""
 	choice = int(input("Enter your Choice"))
+
+def view_task_function
 	
 	
 	 
